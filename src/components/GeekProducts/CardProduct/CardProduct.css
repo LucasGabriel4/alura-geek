@@ -1,0 +1,32 @@
+
+
+.card{
+    @apply w-[160px]
+}
+
+.cards{
+    @apply relative
+}
+
+.Remove-and-edit{
+    @apply flex absolute right-2 top-2 gap-x-[20px]
+}
+.card a{
+    @apply text-blue font-bold
+}
+
+.card img, 
+.card h2,
+.card span{
+    @apply mb-[8px]
+}
+
+
+.card h2{
+    @apply text-[15px]
+}
+
+.card span{
+    @apply block
+}
+

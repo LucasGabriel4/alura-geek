@@ -1,0 +1,53 @@
+
+
+.Header{
+    @apply py-8 max-w-[1080px] m-auto px-[10px] flex justify-between items-center gap-[32px]
+}
+
+.Header .search-mobile{
+    @apply hidden cursor-pointer
+}
+
+
+
+.Header > div{
+    @apply flex  items-center gap-[32px]
+}
+
+
+.Header input{
+    @apply bg-InputHeader w-[393px] h-[40px] rounded-[20px] py-2 px-4 outline-none 
+}
+
+.Header button{
+    @apply hover:bg-lightBlueHover transition-all !important;
+}
+
+.Header input::placeholder{
+    background-image: url('../../src/assets/search.svg');
+    background-repeat: no-repeat;
+    background-position:100%;
+}
+
+
+
+
+@media screen and (min-width: 760px) and (max-width: 980px){
+    .Header  button{
+       @apply w-[166px] h-[40px] !important
+
+    }
+}
+
+@media screen and (max-width: 759px){
+    .Header .search-mobile{
+        @apply block
+    }
+    .Header  button{
+        @apply w-[150px] h-[40px] text-[13px] !important
+ 
+     }
+    .Header input{
+        @apply hidden
+    }
+}

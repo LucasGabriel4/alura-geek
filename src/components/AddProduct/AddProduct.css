@@ -1,0 +1,26 @@
+.add-product{
+    @apply py-[64px] bg-lightgray flex justify-center px-[10px]
+}
+
+.add-product h1{
+    @apply font-bold text-[32px] text-left mb-[16px]
+}
+
+.add-product form{
+    @apply w-full max-w-[559px]
+}
+
+.add-product form > textarea {
+   @apply resize-none w-full h-[82px] pl-[12px] pt-[16px] outline-none mb-[16px]
+}
+
+.add-product form > input{
+    @apply mb-[16px]
+}
+
+@media screen and (max-width: 759px){
+    .add-product h1{
+        @apply text-[25px] 
+    }
+      
+}

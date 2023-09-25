@@ -1,0 +1,32 @@
+[
+    {
+      "image": "public/imagens/diversos-1.svg",
+      "nameProduct": "Camisa Atari",
+      "price": "R$ 60,00"
+    },
+    {
+      "image": "public/imagens/diversos-2.svg",
+      "nameProduct": "Camisa SNES",
+      "price": "R$ 60,00"
+    },
+    {
+      "image": "public/imagens/diversos-3.svg",
+      "nameProduct": "Boneco Sonic",
+      "price": "R$ 200,00"
+    },
+    {
+      "image": "public/imagens/diversos-4.svg",
+      "nameProduct": "Radio",
+      "price": "R$ 200,00"
+    },
+    {
+      "image": "public/imagens/diversos-5.svg",
+      "nameProduct": "Playstation VR",
+      "price": "R$ 4000,00"
+    },
+    {
+      "image": "public/imagens/diversos-6.svg",
+      "nameProduct": "Pelucia Pikachu",
+      "price": "R$ 100,00"
+    }
+  ]

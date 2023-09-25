@@ -1,0 +1,21 @@
+
+
+.form textarea{
+   @apply resize-none w-full h-[82px] pt-[16px] pl-[12px] text-[16px] outline-none
+}
+
+.form input,
+.form textarea{
+    @apply mb-[16px]
+}
+
+.form{
+    @apply w-[560px] 
+}
+
+@media screen and (max-width: 759px){
+    .form{
+        @apply w-[350px]
+    }
+}
+

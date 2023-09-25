@@ -1,0 +1,31 @@
+.Login{
+    @apply  flex justify-center items-center  py-[92px] bg-lightgray
+}
+
+.Login h1{
+    @apply font-bold mb-[24px] text-center
+}
+
+.Login form{
+   @apply flex flex-col
+}
+
+
+.Login input:nth-of-type(2){
+   @apply mt-[20px] 
+}
+
+
+.Login button{
+    @apply mt-[20px] 
+}
+
+@media screen and (max-width: 759px){
+    .Login input{
+        @apply w-[275px] h-[41px] !important
+    }
+
+    .Login button {
+        @apply w-[109px] h-[40px] mx-auto !important
+    }
+}

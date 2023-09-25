@@ -1,0 +1,34 @@
+
+[
+    {
+      "image": "public/imagens/consoles-1.svg",
+      "nameProduct": "Controle Xbox One",
+      "price": "R$ 350,00"
+    },
+    {
+      "image": "public/imagens/consoles-2.svg",
+      "nameProduct": "Playstation 5",
+      "price": "R$ 4500,00"
+    },
+    {
+      "image": "public/imagens/consoles-3.svg",
+      "nameProduct": "Nintendo",
+      "price": "R$ 600,00"
+    },
+    {
+      "image": "public/imagens/consoles-4.svg",
+      "nameProduct": "Joycons",
+      "price": "R$ 450,00"
+    },
+    {
+      "image": "public/imagens/consoles-5.svg",
+      "nameProduct": "Xbox Series X",
+      "price": "R$ 4200,00"
+    },
+    {
+      "image": "public/imagens/consoles-6.svg",
+      "nameProduct": "Gameboy",
+      "price": "R$ 300,00"
+    }
+]
+

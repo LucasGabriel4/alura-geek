@@ -1,0 +1,46 @@
+.Banner-Geek{
+ width: 100%;
+ height: 352px;
+ background-image: url('../../../public/imagens/banner-geek.png');
+ background-size: cover;
+ background-position: center;
+ 
+}
+
+.Banner-Geek-content{
+    @apply pt-[140px] pl-[152px]
+}
+
+.Banner-Geek-content h1{
+    @apply text-[3.25rem] text-white font-bold
+}
+.Banner-Geek-content h3{
+    @apply text-[1.375rem] text-white font-bold
+}
+.Banner-Geek-content button{
+    @apply mt-4
+}
+
+
+
+@media screen and (min-width: 760px) and (max-width: 980px){
+    .Banner-Geek-content{
+        @apply  pl-[32px]
+    }
+}
+
+@media screen and (max-width: 759px){
+    
+    .Banner-Geek-content{
+        @apply  pl-[32px] pt-[152px]
+    }
+
+    .Banner-Geek-content h1{
+        @apply text-[26px] 
+    }
+
+    .Banner-Geek-content h3{
+        @apply text-[15px] text-white font-semibold
+    }
+
+}

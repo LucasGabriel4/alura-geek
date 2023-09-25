@@ -1,0 +1,34 @@
+
+ [
+      {
+        "image": "public/imagens/starwars-1.svg",
+        "nameProduct": "Caneca Stormtrooper",
+        "price": "R$ 80,00"
+      },
+      {
+        "image": "public/imagens/starwars-2.svg",
+        "nameProduct": "Lego Darth Vader",
+        "price": "R$ 120,00"
+      },
+      {
+        "image": "public/imagens/starwars-3.svg",
+        "nameProduct": "Yoda Boneco",
+        "price": "R$ 95,00"
+      },
+      {
+        "image": "public/imagens/starwars-4.svg",
+        "nameProduct": "Stormtrooper Boneco",
+        "price": "R$ 150,00"
+      },
+      {
+        "image": "public/imagens/starwars-5.svg",
+        "nameProduct": "Baby Yoda Boneco",
+        "price": "R$ 100,00"
+      },
+      {
+        "image": "public/imagens/starwars-6.svg",
+        "nameProduct": "Kylo Ren Boneco",
+        "price": "R$ 200,00"
+      }
+    ]
+

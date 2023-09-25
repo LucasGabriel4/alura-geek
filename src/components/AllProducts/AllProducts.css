@@ -1,0 +1,33 @@
+.all-products{
+    @apply py-[64px] bg-lightgray
+}
+
+
+.all-products-container{
+    @apply max-w-[1080px] px-[10px] m-auto 
+}
+
+.all-products-container > div{
+    @apply flex justify-between items-center mb-[20px]
+}
+
+.all-products-container h1{
+    @apply font-bold text-[32px]
+}
+
+.all-products-flex{
+    @apply flex flex-wrap gap-[16px]  justify-center items-center;
+}
+
+
+@media screen and (max-width: 759px){
+    .all-products-container > div:not(.all-products-flex){
+        @apply flex flex-col justify-start items-start
+    }
+
+    .all-products-container h1{
+        @apply text-[25px] mb-[16px]
+    }
+
+    
+}

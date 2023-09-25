@@ -1,0 +1,116 @@
+{
+  "StarWarsProducts": [
+    {
+      "id": 1,
+      "image": "/src/assets/starwars-1.svg",
+      "nameProduct": "Caneca Stormtrooper",
+      "price": "R$ 80,00"
+    },
+    {
+      "id": 2,
+      "image": "/src/assets/starwars-2.svg",
+      "nameProduct": "Lego Darth Vader",
+      "price": "R$ 120,00"
+    },
+    {
+      "id": 3,
+      "image": "/src/assets/starwars-3.svg",
+      "nameProduct": "Yoda Boneco",
+      "price": "R$ 95,00"
+    },
+    {
+      "id": 4,
+      "image": "/src/assets/starwars-4.svg",
+      "nameProduct": "Stormtrooper Boneco",
+      "price": "R$ 150,00"
+    },
+    {
+      "id": 5,
+      "image": "/src/assets/starwars-5.svg",
+      "nameProduct": "Baby Yoda Boneco",
+      "price": "R$ 100,00"
+    },
+    {
+      "id": 6,
+      "image": "/src/assets/starwars-6.svg",
+      "nameProduct": "Kylo Ren Boneco",
+      "price": "R$ 200,00"
+    }
+  ],
+  "ConsolesProducts": [
+    {
+      "id": 1,
+      "image": "/src/assets/consoles-1.svg",
+      "nameProduct": "Controle Xbox One",
+      "price": "R$ 350,00"
+    },
+    {
+      "id": 2,
+      "image": "/src/assets/consoles-2.svg",
+      "nameProduct": "Playstation 5",
+      "price": "R$ 4500,00"
+    },
+    {
+      "id": 3,
+      "image": "/src/assets/consoles-3.svg",
+      "nameProduct": "Nintendo",
+      "price": "R$ 600,00"
+    },
+    {
+      "id": 4,
+      "image": "/src/assets/consoles-4.svg",
+      "nameProduct": "Joycons",
+      "price": "R$ 450,00"
+    },
+    {
+      "id": 5,
+      "image": "/src/assets/consoles-5.svg",
+      "nameProduct": "Xbox Series X",
+      "price": "R$ 4200,00"
+    },
+    {
+      "id": 6,
+      "image": "/src/assets/consoles-6.svg",
+      "nameProduct": "Gameboy",
+      "price": "R$ 300,00"
+    }
+  ],
+  "DiversosProducts": [
+    {
+      "id": 1,
+      "image": "/src/assets/diversos-1.svg",
+      "nameProduct": "Camisa Atari",
+      "price": "R$ 60,00"
+    },
+    {
+      "id": 2,
+      "image": "/src/assets/diversos-2.svg",
+      "nameProduct": "Camisa SNES",
+      "price": "R$ 60,00"
+    },
+    {
+      "id": 3,
+      "image": "/src/assets/diversos-3.svg",
+      "nameProduct": "Boneco Sonic",
+      "price": "R$ 200,00"
+    },
+    {
+      "id": 4,
+      "image": "/src/assets/diversos-4.svg",
+      "nameProduct": "Radio",
+      "price": "R$ 200,00"
+    },
+    {
+      "id": 5,
+      "image": "/src/assets/diversos-5.svg",
+      "nameProduct": "Playstation VR",
+      "price": "R$ 4000,00"
+    },
+    {
+      "id": 6,
+      "image": "/src/assets/diversos-6.svg",
+      "nameProduct": "Pelucia Pikachu",
+      "price": "R$ 100,00"
+    }
+  ]
+}

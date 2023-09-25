@@ -1,0 +1,33 @@
+
+.Product{
+    @apply max-w-[1080px] m-auto px-[10px] mb-[50px]
+}
+
+.Product-type{
+    @apply flex justify-between items-center max-w-[1080px] m-auto px-[10px] 
+}
+
+
+
+.see-all{
+    @apply flex gap-[8px]
+}
+
+.see-all img {
+    @apply w-[24px] h-[24px]
+}
+
+.Product-type h1{
+    @apply font-bold text-[2rem] text-gray
+}
+
+.Product-type a{
+    @apply font-bold text-blue 
+}
+
+.cards-products{
+    @apply flex flex-wrap gap-[16px] justify-center  mt-[16px]
+}
+
+
+
